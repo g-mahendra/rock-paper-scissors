@@ -13,3 +13,7 @@ Steps to play:
   1. Enjoy!
   
 **Contributions are welcome:)**
+
+![GitHub Logo](/images/splash.jpg)
+Format: ![Splash Screen])
+
