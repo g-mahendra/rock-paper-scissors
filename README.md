@@ -13,3 +13,6 @@ Steps to play:
   1. Enjoy!
   
 **Contributions are welcome:)**
+
+<img src="/images/splash.jpg" alt="splashscreen" width="200"/> <img src="/images/signin.jpg" alt="signin" width="200"/> <img src="/images/signup.jpg" alt="signup" width="200"/> <img src="/images/choose.jpg" alt="choosegametype" width="200"/>
+ <img src="/images/create.jpg" alt="creategame" width="200"/>  <img src="/images/join.jpg" alt="joingame" width="200"/>
